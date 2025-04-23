@@ -1,4 +1,4 @@
-# Projeto News
+#  Newsletter
 
 
 **Funcionalidades**
